@@ -1,5 +1,3 @@
-
-
 const fullName = prompt("Enter ur Name and surname:");
 const firstName = fullName.split("")[0];
 console.log("Hi " + firstName + "!");
@@ -16,3 +14,10 @@ if (age <= 18) {
 const number = prompt("Enter a 4 digit number:");
 const sum = Number(number[0]) + Number(number[1]) + Number(number[2]) + Number(number[3]);
 console.log("sum = " + sum);
+
+
+
+
+
+
+
